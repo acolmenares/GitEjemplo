@@ -1,0 +1,45 @@
+1. Crear la Rama para los cambios  : create a new branch named "cambio_1" and switch to it using
+   git checkout -b cambio_1
+   o
+   usando el icono de "Create new branch" del cliente github
+
+a partir de este momento se empiezan a registar los cambios en la rama seleccionada "cambio_1"
+
+
+2. Proponer cambios en la rama creada en el repo local : You can propose changes (add it to the Index) 
+
+git add <filename>
+git add *
+o simplemente creando nuevos archivos, borrando, actualizado los ya existentes
+
+
+This is the first step in the basic git workflow
+
+
+
+3. hacer commit en esta rama
+
+git commit -m "Commit message"
+os usando el Cliente GitHub : es necesario llenar donde dice "Summary" y "Description" despues se habilita el boton de commit
+por el momento los cambios estan solo en el respositorio local en la rama "cambio_1"
+
+
+
+4. Publicar los cambios de la rama : pushing changes
+
+Teniendo activa la rama "cambio_1" con el boton Publish del github cliente 
+
+o por comando
+
+git push origin cambio_1
+
+con esto nuestros cambios aparecen el repositorio remoto dentro de la rama cambio_1
+
+
+5. Hacer el pull request hacia el repositorio
+
+
+
+
+
+
