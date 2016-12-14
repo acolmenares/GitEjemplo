@@ -78,4 +78,17 @@ con esto nuestros cambios aparecen el repositorio remoto dentro de la rama cambi
 
 10. Sincronizar repositorios de los colaboradores...
 
+11. Para sincronizar los repositorios de los colaboradores :
+
+    por la pagina web en github.com
+    seleccionar el respositorio
+    seleccionar la rama de cambios sobre la que estamos trabajando
+    debe salir un aviso algo asi : This branch is 10 commits behind ....
+    dar click en "compare"
+    en la parte derecha en base fork debe estar el repositorio/rama de origen de donde queremos traer los cambios ( puede ser una rama de nuestro propio repositorio) 
+    en la parte izquierda head fork  nuestro repositorio
+    creamos el Pull Request y despue Merge
+    
+
+
 Para continuar....
