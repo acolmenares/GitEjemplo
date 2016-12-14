@@ -39,7 +39,7 @@ con esto nuestros cambios aparecen el repositorio remoto dentro de la rama cambi
 5. Hacer el pull request hacia el repositorio
 
 
+6 !
 
-
-
+7. probando con git gui
 
