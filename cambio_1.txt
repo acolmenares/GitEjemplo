@@ -42,4 +42,13 @@ con esto nuestros cambios aparecen el repositorio remoto dentro de la rama cambi
 6 !
 
 7. probando con git gui
+8 todo con el cliente github
+
+1 crea la rama y ponerla como activa
+
+2. hacer el commit
+
+3 publicar los cambios
+
+
 
