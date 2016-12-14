@@ -1,12 +1,14 @@
-1. Crear la Rama para los cambios  : create a new branch named "cambio_1" and switch to it using
+
+-------------------------------------------------------------------------------------
+
+1. Crear la rama para la caracteristica y ponerla como activa
    git checkout -b cambio_1
    o
    usando el icono de "Create new branch" del cliente github
 
-a partir de este momento se empiezan a registar los cambios en la rama seleccionada "cambio_1"
+2. Hacer los cambios sobre la rama
 
-
-2. Proponer cambios en la rama creada en el repo local : You can propose changes (add it to the Index) 
+Proponer cambios en la rama creada en el repo local : You can propose changes (add it to the Index) 
 
 git add <filename>
 git add *
@@ -16,16 +18,16 @@ o simplemente creando nuevos archivos, borrando, actualizado los ya existentes
 This is the first step in the basic git workflow
 
 
-
-3. hacer commit en esta rama
+3. Hacer el commit de rama
 
 git commit -m "Commit message"
 os usando el Cliente GitHub : es necesario llenar donde dice "Summary" y "Description" despues se habilita el boton de commit
 por el momento los cambios estan solo en el respositorio local en la rama "cambio_1"
 
 
+4. Publicar y Hacer el Pull Request de la rama hacia el repositorio principal del proyecto en la rama asignada!
 
-4. Publicar los cambios de la rama : pushing changes
+Publicar los cambios de la rama : pushing changes
 
 Teniendo activa la rama "cambio_1" con el boton Publish del github cliente 
 
@@ -36,35 +38,8 @@ git push origin cambio_1
 con esto nuestros cambios aparecen el repositorio remoto dentro de la rama cambio_1
 
 
+NOta: si se usa la opcion Pull Requeste del Cliente GitHub se hara el pusblish push y se creara el pull request
 
-3 publicar los cambios 
-
-
-
-
-6 !
-
-7. probando con git gui
-8 todo con el cliente github
-
-1 crea la rama y ponerla como activa
-
-2. hacer el commit
-
-3 publicar los cambios  ( hacer pull request en el cliente github al repositorio de joseluis/cambio_1 ) 
-
-4. angel colmenares: Recibi el pull request le hice unos cambio y lo voy a llevar al mi master
-
-
--------------------------------------------------------------------------------------
-
-1. Crear la rama para la caracteristica y ponerla como activa
-
-2. Hacer los cambios sobre la rama
-
-3. Hacer el commit de rama
-
-4. Hacer el Pull Request de la rama hacia el repositorio principal del proyecto en la rama asignada!
 
 5. Aceptar el pull request (merge)  en el proyecto principal en la rama asignada para revisar los cambios
 
@@ -72,7 +47,7 @@ con esto nuestros cambios aparecen el repositorio remoto dentro de la rama cambi
 
 7. Revisar la rama de cambios hasta que se aprueba
 
-8. Una verz revisados y aprobados hacer pull request de la rama de cambios al master en el repositorio principal 
+8. Una vez revisados y aprobados hacer pull request de la rama de cambios al master en el repositorio principal 
 
 9. Aceptar el pull request en el la rama principal del proyecto
 
