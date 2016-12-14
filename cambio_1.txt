@@ -56,4 +56,26 @@ con esto nuestros cambios aparecen el repositorio remoto dentro de la rama cambi
 4. angel colmenares: Recibi el pull request le hice unos cambio y lo voy a llevar al mi master
 
 
+-------------------------------------------------------------------------------------
 
+1. Crear la rama para la caracteristica y ponerla como activa
+
+2. Hacer los cambios sobre la rama
+
+3. Hacer el commit de rama
+
+4. Hacer el Pull Request de la rama hacia el repositorio principal del proyecto en la rama asignada!
+
+5. Aceptar el pull request (merge)  en el proyecto principal en la rama asignada para revisar los cambios
+
+6. Hacer los cambios necesario sobre la rama de cambios en el repositorio principal
+
+7. Revisar la rama de cambios hasta que se aprueba
+
+8. Una verz revisados y aprobados hacer pull request de la rama de cambios al master en el repositorio principal 
+
+9. Aceptar el pull request en el la rama principal del proyecto
+
+10. Sincronizar repositorios de los colaboradores...
+
+Para continuar....
