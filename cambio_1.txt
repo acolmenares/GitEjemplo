@@ -88,7 +88,5 @@ con esto nuestros cambios aparecen el repositorio remoto dentro de la rama cambi
     en la parte derecha en base fork debe estar el repositorio/rama de origen de donde queremos traer los cambios ( puede ser una rama de nuestro propio repositorio) 
     en la parte izquierda head fork  nuestro repositorio
     creamos el Pull Request y despue Merge
-    
-
-
-Para continuar....
+    Sincrinozar el repositorio local
+    y asi sucesivamente.
