@@ -36,7 +36,10 @@ git push origin cambio_1
 con esto nuestros cambios aparecen el repositorio remoto dentro de la rama cambio_1
 
 
-5. Hacer el pull request hacia el repositorio
+
+3 publicar los cambios 
+
+
 
 
 6 !
@@ -48,7 +51,9 @@ con esto nuestros cambios aparecen el repositorio remoto dentro de la rama cambi
 
 2. hacer el commit
 
-3 publicar los cambios
+3 publicar los cambios  ( hacer pull request en el cliente github al repositorio de joseluis/cambio_1 ) 
+
+4. angel colmenares: Recibi el pull request le hice unos cambio y lo voy a llevar al mi master
 
 
 
