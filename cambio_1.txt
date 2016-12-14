@@ -72,6 +72,10 @@ con esto nuestros cambios aparecen el repositorio remoto dentro de la rama cambi
 
 7. Revisar la rama de cambios hasta que se aprueba
 
-8. Hacer pull request de la rama de cambios al master en el repositorio principal 
+8. Una verz revisados y aprobados hacer pull request de la rama de cambios al master en el repositorio principal 
 
-9. Para continuar....
+9. Aceptar el pull request en el la rama principal del proyecto
+
+10. Sincronizar repositorios de los colaboradores...
+
+Para continuar....
