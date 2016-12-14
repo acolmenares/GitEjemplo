@@ -64,15 +64,14 @@ con esto nuestros cambios aparecen el repositorio remoto dentro de la rama cambi
 
 3. Hacer el commit de rama
 
-4. Hacer el Pull Request de la rama hacia el repositorio principal del proyecto
+4. Hacer el Pull Request de la rama hacia el repositorio principal del proyecto en la rama asignada!
 
+5. Aceptar el pull request (merge)  en el proyecto principal en la rama asignada para revisar los cambios
 
-5. aceptar el pull request en el proyecto principal en la rama asignada para revisar los cambios
+6. Hacer los cambios necesario sobre la rama de cambios en el repositorio principal
 
-5. Hacer los cambios necesario sobre la rama de cambios en el repositorio principal
+7. Revisar la rama de cambios hasta que se aprueba
 
-6. Revisar la rama de cambios hasta que se aprueba
+8. Hacer pull request de la rama de cambios al master en el repositorio principal 
 
-7. Hacer pull request de la rama de cambios al master en el repositorio principal 
-
-8. Para continuar....
+9. Para continuar....
